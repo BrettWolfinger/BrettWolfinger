@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm Brett
+
+Technical Designer/Gameplay Engineer working on personal projects to develop my skills 
+
+## Current Projects
+#RPG Project
+
+#Space Asteroid-like shooter
+
+#20 Games Challenge (https://20_games_challenge.gitlab.io/)
 
 <!--
 **BrettWolfinger/BrettWolfinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
