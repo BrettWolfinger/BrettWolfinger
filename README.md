@@ -11,6 +11,8 @@ Technical Designer/Gameplay Engineer working on personal projects to develop my 
 * Informal challenge to rebuild popular games from history without tutorials, each one more difficult than the last
 * Most Recent (2/20): Breakout
 
+## Past Projects: https://github.com/BrettWolfinger/BrettWolfinger/blob/main/PastProjects.md
+
 <!--
 **BrettWolfinger/BrettWolfinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
