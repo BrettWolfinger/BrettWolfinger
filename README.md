@@ -1,9 +1,9 @@
 ## Hi there 👋 I'm Brett
 
 Technical Designer/Gameplay Engineer working on personal projects
-Languages: C#, C++, Python
-Engines: Unity, Unreal, Creation Kit
-Other Gaming Software: Maya, Blender
+* Languages: C#, C++, Python
+* Engines: Unity, Unreal, Creation Kit
+* Other Gaming Software: Maya, Blender
 
 ## Current Projects
 ### aRPG Project
