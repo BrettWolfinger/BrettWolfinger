@@ -15,7 +15,7 @@ Technical Designer/Gameplay Engineer working on personal projects
 * Most Recent (2/20): Breakout
 
 ## [Past Projects](https://github.com/BrettWolfinger/BrettWolfinger/blob/main/PastProjects.md)
-
+* Click the link above to view a directory of all my past projects!
 <!--
 **BrettWolfinger/BrettWolfinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
