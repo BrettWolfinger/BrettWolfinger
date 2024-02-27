@@ -14,9 +14,9 @@
 * DeliveryDriver
   
 #### Unreal
-* [CryptRaider] (https://github.com/BrettWolfinger/CryptRaider):
-* [ObstacleAssault] (https://github.com/BrettWolfinger/Obstacle-Assault):
-* [WarehouseWreckage] (https://github.com/BrettWolfinger/WarehouseWreckage):
+* [CryptRaider](https://github.com/BrettWolfinger/CryptRaider):
+* [ObstacleAssault](https://github.com/BrettWolfinger/Obstacle-Assault):
+* [WarehouseWreckage](https://github.com/BrettWolfinger/WarehouseWreckage):
 
 ### [20 Games Challenge](https://20_games_challenge.gitlab.io/)
 * Informal challenge to rebuild popular games from history without tutorials, each one more difficult than the last
