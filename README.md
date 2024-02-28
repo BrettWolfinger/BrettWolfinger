@@ -6,6 +6,9 @@ Technical Designer/Gameplay Engineer working on personal projects
 * Other Gaming Software: Maya, Blender
 
 ## Current Projects
+### Game Jams
+* Participating in the upcoming Mini Jam #153: Fishing
+  
 ### aRPG Project
 * Multi-part course offered through GameDevTV working through a detailed Diablo-like ARPG at an intermediate Unity level
 * https://github.com/BrettWolfinger/RPG-Project 
