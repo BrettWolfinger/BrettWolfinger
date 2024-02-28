@@ -15,7 +15,7 @@ Technical Designer/Gameplay Engineer working on personal projects
 
 ### [20 Games Challenge](https://20_games_challenge.gitlab.io/)
 * Informal challenge to rebuild popular games from history without tutorials, each one more difficult than the last
-* Most Recent (2/20): Breakout
+* Most Recent (2/20): [Breakout](https://github.com/BrettWolfinger/Breakout)
 
 ## [Past Projects](https://github.com/BrettWolfinger/BrettWolfinger/blob/main/PastProjects.md)
 * Click the link above to view a directory of all my past projects!
