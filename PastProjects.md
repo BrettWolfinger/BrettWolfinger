@@ -5,13 +5,12 @@
 ### GameDev.TV Course Projects
 * Projects built while learning from [GameDev.TV](https://www.gamedev.tv/) Courses
 #### Unity
-* https://github.com/BrettWolfinger/RPG-Project
-* ArgonAssault
-* ProjectBoost
+* [ArgonAssault](https://github.com/BrettWolfinger/ArgonAssault)
+* [ProjectBoost](https://github.com/BrettWolfinger/ProjectBoost)
 * ObstacleCourse
-* LaserDefender
+* [LaserDefender](https://github.com/BrettWolfinger/Laser_Defender)
 * QuizMaster
-* TileVania
+* [TileVania](https://github.com/BrettWolfinger/TileVania)
 * SnowBoarder
 * DeliveryDriver
   
