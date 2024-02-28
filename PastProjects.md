@@ -22,4 +22,4 @@
 
 ### [20 Games Challenge](https://20_games_challenge.gitlab.io/)
 * Informal challenge to rebuild popular games from history without tutorials, each one more difficult than the last
-* 1/20: [Pong]() (Unity)
+* 1/20: [Pong](https://github.com/BrettWolfinger/Pong) (Unity)
