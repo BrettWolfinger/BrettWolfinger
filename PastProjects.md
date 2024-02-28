@@ -10,8 +10,8 @@
 * [ProjectBoost](https://github.com/BrettWolfinger/ProjectBoost)
 * ObstacleCourse
 ##### 2D
-*  [LaserDefender](https://github.com/BrettWolfinger/Laser_Defender)
-* QuizMaster
+* [LaserDefender](https://github.com/BrettWolfinger/Laser_Defender)
+* [QuizMaster](https://github.com/BrettWolfinger/Quiz-Master)
 * [TileVania](https://github.com/BrettWolfinger/TileVania)
 * SnowBoarder
 * [DeliveryDriver](https://github.com/BrettWolfinger/DeliveryDriver)
