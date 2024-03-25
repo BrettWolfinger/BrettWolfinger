@@ -7,7 +7,7 @@ Technical Designer/Gameplay Engineer working on personal projects
 
 ## Current Projects
 ### Game Jams
-* Participating in the upcoming Mini Jam #153: Fishing
+* Upcoming Jam Fish Fest (4/1 - 4/8): Making an Unreal Engine FPS with rotating weapon mechanics similar to the Call of Duty "Gun Game" mode
   
 ### aRPG Project
 * Multi-part course offered through GameDevTV working through a detailed Diablo-like ARPG at an intermediate Unity level
