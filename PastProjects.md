@@ -29,5 +29,5 @@
 ##### 2D
 * [QuizMaster](https://github.com/BrettWolfinger/Quiz-Master): Menu based trivia game to learn about Unity Canvases and UI
 * [TileVania](https://github.com/BrettWolfinger/TileVania): 2D platformer concept
-* SnowBoarder(): Physics and collisions experiment using slopes and jumps
+* [SnowBoarder](https://github.com/BrettWolfinger/Snow-Boarder): Physics and collisions experiment using slopes and jumps
 * [DeliveryDriver](https://github.com/BrettWolfinger/DeliveryDriver): 2D "Crazy Taxi" like game
