@@ -8,6 +8,10 @@ Technical Designer/Gameplay Engineer working on personal projects
 ## Current Projects
 ### Game Jams
 * Upcoming Jam Fish Fest (4/1 - 4/8): Making an Unreal Engine FPS with rotating weapon mechanics similar to the Call of Duty "Gun Game" mode
+* #### Mini Jam 154: Travel (3/15/24-3/18/24)
+* [TrainGame](https://github.com/BrettWolfinger/MiniJam154): (Unity) 2D survival shooter with an online leaderboard and player upgrade system.
+#### Mini Jam 153: Fishing (3/1/24-3/3/24)
+* [FishMonger](https://github.com/BrettWolfinger/Fishmonger): (Unity) 2D Store Simulator game with Cooking Mama minigames for cleaning fish.
   
 ### aRPG Project
 * Multi-part course offered through GameDevTV working through a detailed Diablo-like ARPG at an intermediate Unity level
