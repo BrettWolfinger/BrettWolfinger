@@ -1,11 +1,13 @@
 ## Past Projects
 * Organized directory of repos for past game projects I've built, ordered roughly from recent to oldest
 ### Game Jams
-#### Mini Jam 154: Travel
-#### Mini Jam 153: Fishing
+#### Mini Jam 154: Travel (3/15/24-3/18/24)
+* [TrainGame](https://github.com/BrettWolfinger/MiniJam154): (Unity) 2D survival shooter with an online leaderboard and player upgrade system.
+#### Mini Jam 153: Fishing (3/1/24-3/3/24)
+* [FishMonger](https://github.com/BrettWolfinger/Fishmonger): (Unity) 2D Store Simulator game with Cooking Mama minigames for cleaning fish.
 
 ### Personal Projects
-* [LaserDefender](https://github.com/BrettWolfinger/Laser_Defender)
+* [LaserDefender](https://github.com/BrettWolfinger/Laser_Defender): (Unity) 2D space shooter with upgradeable ships and equippable items. Experimenting with telemetry and analytics for understanding player behaviour
 
 ### [20 Games Challenge](https://20_games_challenge.gitlab.io/)
 * Informal challenge to rebuild popular games from history without tutorials, each one more difficult than the last
