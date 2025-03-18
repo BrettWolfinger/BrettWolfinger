@@ -18,6 +18,8 @@
 ### GameDev.TV Course Projects
 * Projects built while learning from [GameDev.TV](https://www.gamedev.tv/) Courses
 
+
+
 #### Unreal
 * [ToonTanks](https://github.com/BrettWolfinger/ToonTanks): Third person tank shooter with enemy AI and Enhance Input system
 * [CryptRaider](https://github.com/BrettWolfinger/CryptRaider): First person "Indiana Jones" style demo with manipulation of scene objects
@@ -26,6 +28,7 @@
 
 #### Unity
 ##### 3D
+* [aRPG Project](https://github.com/BrettWolfinger/RPG-Project): Multi-part course offered through GameDevTV working through a detailed Diablo-like ARPG at an intermediate Unity level
 * [ProjectBoost](https://github.com/BrettWolfinger/ProjectBoost): Lift off and land a rocket avoiding obstacles
 * [ObstacleCourse](https://github.com/BrettWolfinger/ObstacleCourse): Simple movement and collision experiement in Unity 3D
 ##### 2D
