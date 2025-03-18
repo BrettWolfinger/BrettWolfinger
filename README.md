@@ -1,25 +1,25 @@
-## Hi there 👋 I'm Brett
+## Hi there 👋
 
-Technical Designer/Gameplay Engineer working on personal projects
-* Languages: C#, C++, Python
-* Engines: Unity, Unreal, Creation Kit
-* Other Gaming Software: Maya, Blender
+I'm Brett, a Gameplay Programmer working on personal projects
+* Languages: C#, Verse, C++, Python
+* Engines: Unity, Unreal Editor for Fortnite, Unreal, Creation Kit
+* Other Gaming Software: Blender
+
+As a Ph.D. student, I co-founded the [Hopkins Game Dev Society](https://www.hopkinsgamedevsociety.com/), where we empower Johns Hopkins University students to create games by providing formal mentorship and hosting career-building events. Additionally, I am the Teaching Assitant for the university's only video game development class, 3D Computer Graphics and Game Programming, where we introduce students to Unity through a semester long team project.
 
 ## Current Projects
-### Game Jams
-* Upcoming Jam Fish Fest (4/1 - 4/8): Making an Unreal Engine FPS with rotating weapon mechanics similar to the Call of Duty "Gun Game" mode
-#### Mini Jam 154: Travel (3/15/24-3/18/24)
-* [TrainGame](https://github.com/BrettWolfinger/MiniJam154): (Unity) 2D survival shooter with an online leaderboard and player upgrade system.
-#### Mini Jam 153: Fishing (3/1/24-3/3/24)
-* [FishMonger](https://github.com/BrettWolfinger/Fishmonger): (Unity) 2D Store Simulator game with Cooking Mama minigames for cleaning fish.
-  
-### aRPG Project
-* Multi-part course offered through GameDevTV working through a detailed Diablo-like ARPG at an intermediate Unity level
-* https://github.com/BrettWolfinger/RPG-Project 
+### Unreal Editor for Fortnite ([Power Shift Games](https://fortnite.gg/creative?creator=powershift))
+#### Nitro City Adventure (Estimated Release: End of March 2025)
+* A minigame-focused experience where the player competes in events such as Pizza Delivery, Helicopter Rescues, and Mountain Bike races to earn gold medals and top the leaderboards. Inspired by Lego Island.
+#### Fast Food Tycoon (Estimated Release: June 2025)
+* A resource management game where the player owns and operates a fast food restaurant, taking orders from customers and choosing which ones to fill. Complete with restaurant upgrades and progression. Inspired by Diner Dash.
 
-### [20 Games Challenge](https://20_games_challenge.gitlab.io/)
-* Informal challenge to rebuild popular games from history without tutorials, each one more difficult than the last
-* Most Recent (2/20): [Breakout](https://github.com/BrettWolfinger/Breakout)
+### [Vesuvius](https://github.com/L1Ryx/Vesuvius)
+* Surreal metroidvania where the player uncovers the secrets of a snowy Mt. Vesuvius and its mysterious cult.
+
+### Game Jams
+#### Global Game Jam 2025 (1/24/25-1/26/25)
+* [Social Circles](https://github.com/L1Ryx/BubbleGame): (Unity) 2D Narrative game telling the story of a person as he grows up, with simple gameplay mechanics to aid the story.
 
 ## [Past Projects](https://github.com/BrettWolfinger/BrettWolfinger/blob/main/PastProjects.md)
 * Click the link above to view a directory of all my past projects!
